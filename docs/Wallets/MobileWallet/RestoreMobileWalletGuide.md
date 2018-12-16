@@ -6,6 +6,7 @@
 
 2) Search for the app `Loki Wallet` and install it.
 
+<<<<<<< HEAD
 ![Open-Wallet-App](http://u.cubeupload.com/dabeatisgood/APPOpenV2.png)
 
 3) Open the app. Select one of the preset remote nodes. You can keep it to its default, `doopool.xyz:22020`.
@@ -14,6 +15,13 @@
 
 4) Click the green plus button on the lower right corner to restore your wallet.
 ![select-green-plus](http://u.cubeupload.com/dabeatisgood/Screenshotedited.png)
+=======
+![Open-Wallet-App](http://u.cubeupload.com/dabeatisgood/1bdScreenshot2018110312.png)
+
+3) Open the app. Select one of the preset remote nodes. You can keep it to its default, `doopool.xyz:22020`.
+
+4) Click the green plus button on the lower right corner to restore your wallet.
+>>>>>>> 1263003694f08eae075a8e8800be070452f299aa
 
 5) Restore your wallet using your private keys or using the 25 word seed.
 
