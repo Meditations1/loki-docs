@@ -8,7 +8,7 @@
 
 ![Open-Wallet-App](https://raw.githubusercontent.com/Meditations1/loki-docs/master/docs/assets/images/Open-Wallet-App.png)
 
-#### ) Open the app. Select one of the preset remote nodes. You can keep it to its default, `doopool.xyz:22020`.
+#### 3) Open the app. Select one of the preset remote nodes. You can keep it to its default, `doopool.xyz:22020`.
 
 ![select-remote-node](https://raw.githubusercontent.com/Meditations1/loki-docs/master/docs/assets/images/select-remote-node.png)
 
